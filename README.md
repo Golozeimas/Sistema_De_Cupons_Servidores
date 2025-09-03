@@ -38,3 +38,10 @@ Copie a pasta Sistema_De_Cupons_Servidores para:
 ```bash
 C:\xampp\htdocs\
 ```
+3. Criar o banco de dados
+
+Abra http://localhost/phpmyadmin.
+
+Crie um banco de dados chamado sistema_cupons.
+
+Importe o arquivo sistema_cupons.sql.
