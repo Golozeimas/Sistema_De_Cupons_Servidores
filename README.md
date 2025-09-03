@@ -35,5 +35,6 @@ Instale o XAMPP
  (Windows/Linux/Mac).
 
 Copie a pasta Sistema_De_Cupons_Servidores para:
-
+```bash
 C:\xampp\htdocs\
+```
