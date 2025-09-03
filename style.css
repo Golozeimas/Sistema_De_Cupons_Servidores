@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+.container {
+    background:#fff;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+    width:350px;
+    text-align:center;
+}
+input {
+    padding:10px;
+    width:80%;
+    margin:10px 0;
+}
+button {
+    padding:10px 20px;
+    background:#007BFF;
+    border:none;
+    color:#fff;
+    border-radius:5px;
+    cursor:pointer;
+}
+button:hover {
+    background:#0056b3;
+}
+.mensagem {
+    margin-top:20px;
+    font-size:14px;
+}
+.btn-verde{ 
+    padding: 10px 20px;
+    background: #28a745;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-verde:hover {
+    background: #1e7e34;
+}
+.form-busca {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.btn-azul {
+    padding: 10px 20px;
+    background: #007BFF;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn-azul:hover {
+    background: #0056b3;
+}
+.btn-laranja { 
+    background: #fd7e14; 
+    padding: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-laranja:hover { background: #e36b0d; }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #007BFF;
+    color: #fff;
+}
