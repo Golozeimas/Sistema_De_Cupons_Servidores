@@ -28,7 +28,7 @@ Sistema_De_Cupons_Servidores/
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/seuusuario/Sistema_De_Cupons_Servidores.git
-
+```
 2. Configurar o ambiente
 
 Instale o XAMPP
