@@ -15,11 +15,11 @@ O sistema valida se o CPF pertence a um servidor cadastrado e atribui um cupom *
 
 ## 📂 Estrutura de pastas
 Sistema_De_Cupons_Servidores/
-│── index.php # Página principal com buscador e botão de adicionar servidor
-│── processa.php # Lógica de busca e sorteio de cupons
-│── add_servidor.php # Lógica de cadastro de novos servidores
-│── db.php # Conexão com o banco de dados
-│── style.css # Estilos da aplicação
+│── index.php # Página principal com buscador e botão de adicionar servidor<br>
+│── processa.php # Lógica de busca e sorteio de cupons<br>
+│── add_servidor.php # Lógica de cadastro de novos servidores<br>
+│── db.php # Conexão com o banco de dados<br>
+│── style.css # Estilos da aplicação<br>
 │── sistema_cupons.sql # Script para criar e popular o banco
 
 ---
